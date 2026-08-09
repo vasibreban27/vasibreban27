@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vasile 👋</h1>
 
-<!--
-**vasibreban27/vasibreban27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student passionate about Full-Stack Development
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I enjoy building practical web applications using Java, Spring Boot,
+  React and TypeScript.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://vasibreban27.github.io/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vasile-breban/">LinkedIn</a>
+</p>
+
+---
+
+### 👨‍💻 About me
+
+- 🎓 Forth-year Computer Science student in Cluj-Napoca, Romania
+- 🔭 Currently working on **BookNest**, a marketplace for buying and selling books
+- 🌱 Improving my knowledge of **Spring Boot, React and PostgreSQL**
+- 🤝 Experienced in collaborative development using Git and GitHub
+- 💡 Interested in backend development, full-stack applications and software engineering
+
+### 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,javascript,php,laravel,cpp,python" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,tailwind,vite,maven,git,github,postman" />
+</p>
+
+### 🚀 Featured projects
+
+#### 📚 BookNest
+
+A full-stack marketplace where users can publish, discover and purchase books.
+
+**Technologies:** Java, Spring Boot, Spring Security, React, TypeScript and PostgreSQL.
+
+#### 🧾 BFMS
+
+A billing and financial management system developed collaboratively during an internship.
+
+**Technologies:** Laravel, Blade, MySQL and Tailwind CSS.
+
+#### 🚨 ResQ – PoliHack
+
+A progressive web application that connects people in emergency situations
+with nearby responders.
+
+**Technologies:** Vue and web-based location services.
+
+#### 🚦 Traffic Sign Detection
+
+A computer vision project for traffic sign detection and image processing.
+
+**Technologies:** C++, OpenCV and image-processing algorithms.
+
+### 📫 Contact
+
+- LinkedIn: [Vasile Breban](https://www.linkedin.com/in/vasile-breban/)
+- Portfolio: [View my portfolio](https://vasibreban27.github.io/)
