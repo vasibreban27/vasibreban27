@@ -53,7 +53,13 @@ A billing and financial management system developed collaboratively during an in
 A progressive web application that connects people in emergency situations
 with nearby responders.
 
-**Technologies:** Vue and web-based location services.
+**Technologies:** Vue, Spring Boot and PostgreSQL.
+
+#### 🗑️ TACO Trash Instance Segmentation
+
+A computer vision project for detecting and segmenting waste items in images using the TACO dataset.
+
+**Technologies:** Python, PyTorch, Mask R-CNN and Jupyter Notebook.
 
 #### 🚦 Traffic Sign Detection
 
