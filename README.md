@@ -18,11 +18,11 @@ Computer Science Student passionate about Full-Stack Development
 
 ### 👨‍💻 About me
 
-- 🎓 Forth-year Computer Science student in Cluj-Napoca, Romania
-- 🔭 Currently working on **BookNest**, a marketplace for buying and selling books
-- 🌱 Improving my knowledge of **Spring Boot, React and PostgreSQL**
-- 🤝 Experienced in collaborative development using Git and GitHub
-- 💡 Interested in backend development, full-stack applications and software engineering
+* 🎓 Fourth-year Computer Science student in Cluj-Napoca, Romania
+* 🔭 Currently working on **BookNest**, a marketplace for buying and selling books
+* 🌱 Improving my knowledge of **Spring Boot, React and PostgreSQL**
+* 🤝 Experienced in collaborative development using Git and GitHub
+* 💡 Interested in backend development, full-stack applications and software engineering
 
 ### 🛠️ Technologies
 
@@ -41,6 +41,12 @@ Computer Science Student passionate about Full-Stack Development
 A full-stack marketplace where users can publish, discover and purchase books.
 
 **Technologies:** Java, Spring Boot, Spring Security, React, TypeScript and PostgreSQL.
+
+#### 📸 Instagram Clone
+
+A full-stack social media platform where users can share images, interact through posts and comments, search content and manage their profiles.
+
+**Technologies:** Java, Spring Boot, Spring Security, JWT, React, PostgreSQL, Spring Data JPA and Cloudinary.
 
 #### 🧾 BFMS
 
@@ -69,5 +75,5 @@ A computer vision project for traffic sign detection and image processing.
 
 ### 📫 Contact
 
-- LinkedIn: [Vasile Breban](https://www.linkedin.com/in/vasile-breban/)
-- Portfolio: [View my portfolio](https://vasibreban27.github.io/)
+* LinkedIn: [Vasile Breban](https://www.linkedin.com/in/vasile-breban/)
+* Portfolio: [View my portfolio](https://vasibreban27.github.io/)
